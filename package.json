@@ -1,0 +1,30 @@
+{
+  "name": "jsontransform",
+  "description": "JS module to transform JSON",
+  "version": "0.1.1",
+  "author": {
+    "name": "afzaalace"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "keywords": [
+    "json",
+    "transform"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "index",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afzaalace/jsontransform.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afzaalace/jsontransform/issues"
+  },
+  "homepage": "https://github.com/afzaalace/jsontransform"
+}
